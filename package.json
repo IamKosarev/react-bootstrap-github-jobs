@@ -15,7 +15,6 @@
     "react-scripts": "4.0.2",
     "web-vitals": "^1.0.1"
   },
-  "proxy": "https://jobs.github.com",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
